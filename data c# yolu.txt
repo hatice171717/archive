@@ -1,0 +1,1 @@
+Data Source=302-04;Initial Catalog=ArsivOdasi;Persist Security Info=True;User ID=WebMobile_302; password=webmobile.302
